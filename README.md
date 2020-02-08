@@ -44,12 +44,15 @@ Suppose that you have an n-story building and plenty of eggs. Suppose also that 
 
 Inside the `recursive_count_th` directory you'll find the `count_th.py` file. In this file, please add your recursive implementation to the `count_th()` method following these rules:
 
-- Your function should take in a signle parameter (a string `word`)
-- Your function should return a count of how many occurences of **_"th"_** occur within `word`. Case matters.
-- Your function must utilize recursion.
-  - It cannot contain any loops.
+[x] Your function should take in a signle parameter (a string `word`)
 
-Run `python test_count_th.py` to run the tests for your `count_th()` function to ensure that your implementation is correct.
+[x] Your function should return a count of how many occurences of **_"th"_** occur within `word`. Case matters.
+
+[x] Your function must utilize recursion.
+
+[x] It cannot contain any loops.
+
+[x] Run `python test_count_th.py` to run the tests for your `count_th()` function to ensure that your implementation is correct.
 
 #### 4. Understand, plan, & implement the Robot Sort algorithm _(6 points)_
 
